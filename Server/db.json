@@ -1,0 +1,36 @@
+{
+    "stores": [
+      { 
+        "id": 1,
+        "name": "벼락 닭꼬치"
+      },
+      { 
+        "id": 2,
+        "name": "sideshow"
+      },
+      { 
+        "id": 3,
+        "name": "180 coffee roaster"
+      },
+      { 
+        "id": 4,
+        "name": "lebreadlab.net"
+      },
+      { 
+        "id": 5,
+        "name": "방콕야시장"
+      },
+      { 
+        "id": 6,
+        "name": "grabeat"
+      },
+      { 
+        "id": 7,
+        "name": "장화 신은 젖소"
+      },
+      { 
+        "id": 8,
+        "name": "lite lane"
+      }
+    ]
+  }
